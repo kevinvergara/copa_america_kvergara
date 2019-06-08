@@ -18,7 +18,7 @@ if(! isset($_SESSION["DATA_USER"]) || !isset($_SESSION['DATA_USER']["usuario"]))
         <header class="logo-env">
             <div class="logo">
                 <a href="{{url('home')}}" class="logo">
-                    <img src="{{ asset('images/logotipo_rusia_2018.jpeg') }}" width="120" alt="" style="border-radius: 25%;" />
+                    <img src="{{ asset('images/logo_brasil.jpg') }}" width="120" alt="" style="border-radius: 25%;" />
                 </a>
             </div>
             <div class="sidebar-collapse">

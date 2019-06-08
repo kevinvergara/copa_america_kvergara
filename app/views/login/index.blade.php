@@ -24,9 +24,9 @@
         <div class="login-header" id ="login_c">
             <div class="login-content">
                 <a href="#" class="logo">
-                    <img src="{{ asset('images/logotipo_rusia_2018.jpeg') }}" width="300" alt="" style="border-radius: 25%;" />
+                    <img src="{{ asset('images/logo_brasil.jpg') }}" width="300" alt="" style="border-radius: 25%;" />
                 </a>
-                <p class="description"><p style="font-size:25px; color: white;"><b>SISTEMA MUNDIALERO WORKMATE</b></p></p>
+                <p class="description"><p style="font-size:25px; color: white;"><b>COPA AMÉRICA 2019</b></p></p>
             </div>
         </div>
 
@@ -56,7 +56,7 @@
                           </div>
                       </div>
                       <div class="form-group">
-                          <button type="button" class="btn btn-danger btn-block" id="loginbutton">
+                          <button type="button" class="btn btn-primary btn-block" id="loginbutton">
                               <i class="entypo-login"></i>
                               Entrar
                           </button>

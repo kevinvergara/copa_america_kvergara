@@ -11,6 +11,4 @@
 |
 */
 
-
-//Artisan::add(new reinicioclaves);
 Artisan::add(new CalculoPuntajes);

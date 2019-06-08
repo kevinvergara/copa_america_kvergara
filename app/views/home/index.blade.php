@@ -250,7 +250,7 @@ img#tercero:hover {
         </div>
     <div class="row">
       <div class="col-sm-12">
-          <h2>Bienvenida(o) al Sistema Mundialero Workmate</h2>
+          <h2>Bienvenida(o) al sistema de copa américa</h2>
           
           <h3><b>Ranking!!!!</b></h3>
       </div>

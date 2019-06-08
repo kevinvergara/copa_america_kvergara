@@ -58,7 +58,7 @@ $url = "https://tickets.rmworkmate.com/iframe-tickets/$nombre_usuario/$email/$ra
                     <br>
                     <br>
                     <footer class="main">
-                        Portal WM Futbolero - &copy; RM-Software propiedad <strong>Workmate Ltda.</strong> 2018
+                        Software propiedad <strong>Kvergara</strong> 2019
                     </footer>
                     <br><br>
                 </div>

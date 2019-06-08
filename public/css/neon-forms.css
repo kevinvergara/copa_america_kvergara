@@ -6346,7 +6346,7 @@ hr + .mail-env {
   }
 }
 .login-page {
-  background-image: url('../images/russian-world-cup-soccer.jpg');
+  background-image: url('../images/copa_america/qq.jpg');
 }
 .login-page .login-content {
   position: relative;
@@ -6364,7 +6364,7 @@ hr + .mail-env {
 }
 .login-page .login-header {
   position: relative;
-  background-image: url('../images/russian-background-2.jpg');
+  background-image: url('../images/copa_america/aa.jpg');
   padding: 30px 0;
   -moz-transition: all 550ms ease-in-out;
   -o-transition: all 550ms ease-in-out;
@@ -6413,7 +6413,7 @@ hr + .mail-env {
   transition: all 550ms ease-in-out;
 }
 .login-page .login-form .form-group .input-group {
-  background: #ee5f5b;
+  background: #1f232a;
   border: 1px solid #373e4a;
   padding-top: 6px;
   padding-bottom: 6px;

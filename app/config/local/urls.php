@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: yordano
- * Date: 12-05-16
- * Time: 04:23 PM
- */
 
 return array(
     'alfresco'=>"http://localhost:8080/alfresco/cmisatom",

@@ -27,7 +27,7 @@
     <script src="{{ asset('js/jscolor.min.js') }}"></script>
     <script src="{{ asset('js/daterangepicker/moment.min.js') }}"></script>
     <link href="<?php echo asset('css/font-icons/font-awesome/css/font-awesome.min.css'); ?>" rel="stylesheet">
-    <link rel="icon" href="{{ asset('images/logotipo_rusia_2018.jpeg') }}">
+    <link rel="icon" href="{{ asset('images/logo_brasil.jpg') }}">
 
     <script type="text/javascript">
         var base_url = '<?php echo url();?>';

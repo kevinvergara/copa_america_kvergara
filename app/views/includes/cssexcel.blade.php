@@ -88,6 +88,6 @@
 	  </tr>
 	  <tr>	
 	  		<td class="tg-lszj" colspan="1"></td>
-	    	<td class="tg-lszj" colspan="5" align="left"> WORKMATE <?php date('Y'); ?>  </td>
+	    	<td class="tg-lszj" colspan="5" align="left"> NADA <?php date('Y'); ?>  </td>
 	  </tr>
 </table>

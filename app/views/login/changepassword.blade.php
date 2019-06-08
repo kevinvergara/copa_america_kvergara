@@ -141,7 +141,7 @@
                     <br>
                     Oficina Salvador : 569 - 44782748
                     <br />
-                    &copy; RM-Software propiedad <strong><a href="http://www.workmate.cl/">Workmate Ltda.</a></strong> 2016
+                    &copy; Software propiedad <strong>Kvergara</strong> 2019
                 </div>
             </div>
         </div>

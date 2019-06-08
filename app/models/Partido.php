@@ -4,19 +4,16 @@ class Partido extends \Eloquent {
 
 	protected $table='partidos';
 	// Add your validation rules here
-	public static $rules = [
+	/*public static $rules = [
 		'res_local' => 'required',
 		'res_visita' => 'required'
-	];
+	];*/
+
+	public $timestamps = true;
 
 	// Don't forget to fill this array
 	protected $fillable = [
-		"local",
-		"visita",
-		"idfase",
-		"fechahora_partido",
-		"res_local",
-		"res_visita"
+		"local","visita","idfase","fechahora_partido","res_local","res_visita"
 	];
 
 	protected $primaryKey = 'id';

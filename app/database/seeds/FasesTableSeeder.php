@@ -7,45 +7,39 @@ class FasesTableSeeder extends Seeder {
 
 	public function run()
 	{
+		
 		Fase::create([
 			"descripcion" => "Fase de Grupos",
-			"fecha_inicio" => "2018-06-14",
-			"fecha_termino" => "2018-06-28",
+			"fecha_inicio" => "2019-06-14",
+			"fecha_termino" => "2019-06-24",
 			"activo" => true,
 		]);
 
 		Fase::create([
-			"descripcion" => "Octavos de Final",
-			"fecha_inicio" => "2018-06-30",
-			"fecha_termino" => "2018-07-03",
-			"activo" => false,
-		]);
-
-		Fase::create([
 			"descripcion" => "Cuartos de Final",
-			"fecha_inicio" => "2018-07-06",
-			"fecha_termino" => "2018-07-07",
+			"fecha_inicio" => "2019-06-27",
+			"fecha_termino" => "2019-06-29",
 			"activo" => false,
 		]);
 
 		Fase::create([
 			"descripcion" => "Semi-final",
-			"fecha_inicio" => "2018-07-10",
-			"fecha_termino" => "2018-07-11",
+			"fecha_inicio" => "2019-07-02",
+			"fecha_termino" => "2019-07-03",
 			"activo" => false,
 		]);
 
 		Fase::create([
 			"descripcion" => "Tercer lugar",
-			"fecha_inicio" => "2018-07-14",
-			"fecha_termino" => "2018-07-14",
+			"fecha_inicio" => "2019-07-06",
+			"fecha_termino" => "2019-07-06",
 			"activo" => false,
 		]);
 
 		Fase::create([
 			"descripcion" => "Final",
-			"fecha_inicio" => "2018-07-15",
-			"fecha_termino" => "2018-07-15",
+			"fecha_inicio" => "2019-07-07",
+			"fecha_termino" => "2019-07-07",
 			"activo" => false,
 		]);
 	}

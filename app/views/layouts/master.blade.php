@@ -54,7 +54,7 @@
             
         </div>
     <div class="row-fluid">
-      <div id="footer" class="span12"> 2014 &copy; Workmate ::. Desarrollo de Software y TI <a href="http://www.workmate.cl">www.workmate.cl</a> </div>
+      <div id="footer" class="span12"> 2019 Kvergara</div>
     </div>
         @yield('jsfinal')
 		

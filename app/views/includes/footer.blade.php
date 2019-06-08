@@ -60,7 +60,7 @@
 </script>
 
 <footer class="main">
-    &copy; RM-Software propiedad <strong>Workmato Ltda.</strong> 2018
+    &copy; Software propiedad <strong>KVergara </strong> 2019
 </footer>
 </div>
 </div>

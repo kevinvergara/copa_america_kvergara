@@ -58,7 +58,7 @@
                 <div class="col-md-6">
                     <div class="alert alert-warning" style="font-size:16px;">
                         <b>
-                            Estimado Usuario, plataforma de acreditación en mantención, 09-06-2017 entre las 18:00 pm y 23:59 pm. Agradecemos su comprensión.<br /><br />Workmate.
+                            Estimado Usuario, plataforma de acreditación en mantención, 09-06-2017 entre las 18:00 pm y 23:59 pm. Agradecemos su comprensión.<br /><br />
                         </b>
                     </div>
                 </div>
@@ -93,16 +93,7 @@
                     </table>
                 </div>
                 <div class="login-bottom-links" style="color: white">
-                    <br />
-                    Teléfonos
-                    <br>
-                    Mesa de ayuda (Sistema) : 228629145
-                    <br>
-                    Oficina zona norte : 55 - 2337935
-                    <br>
-                    Oficina el salvador : 569 - 44782748
-                    <br />
-                    &copy; RM-Software propiedad <strong><a href="http://www.workmate.cl/">Workmate Ltda.</a></strong> 2016
+                    &copy; Software propiedad <strong>Kvergara</strong> 2019
                 </div>
             </div>
         </div>
