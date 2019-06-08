@@ -1,0 +1,1 @@
+/home/victor/proyectos/wm_futbolero/app/views/maxi_opcions/edit.blade.php

@@ -1,0 +1,1 @@
+/home/victor/proyectos/wm_futbolero/app/views/apuesta_maxis/index.blade.php

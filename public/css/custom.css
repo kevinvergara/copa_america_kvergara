@@ -1,0 +1,405 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+.alert-captcha {
+  background-color: #363E49;
+  border-color: #363E49;
+  color: #FF9708;
+}
+.alert-captcha hr {
+  border-top-color: #FF9708;
+}
+.alert-captcha .alert-link {
+  color: #FF9708;
+}
+
+.captcha {
+	border-radius: 5px;
+	height: 50px;
+	margin-bottom: 5px;
+	width: 100%;
+}
+
+body{}
+/*td{text-transform: uppercase;}*/
+
+/*Formulario solicitud acreditacion*/
+
+.button_cerrar_dialog{
+    float:right;
+}
+#acepto_condiciones{position:relative; top:5px;}
+input{text-transform: uppercase;}
+.codigo-area{width: 60px;}
+.cod-area{width: 4.333%;float: left;min-height: 1px;padding-left: 15px;padding-right: 15px;position: relative;}
+.requerido{color:red;}
+.error{border: 1px solid rgba(215, 0, 0, 0.75);box-shadow:inset 0px 0px 2px 0px rgba(255, 0, 0, 0.75);}
+.llargo{font-size: 10px;}
+.fa-eye{font-size: 20px;}
+.fa-exclamation-circle{color: red; font-size: 20px; margin: 0 auto;}
+.fa-exclamation-triangle{color: #DCE346;font-size: 20px}
+.fa-check-circle{color: green;font-size: 20px;}
+.fa-eye-slash{font-size: 20px;}
+.fa-pencil{font-size: 20px;color: orange}
+td{text-align: center;}
+.tdocumento {
+    width: 100%;
+    margin-bottom: 17px;
+}
+.tdocumento > thead > tr > th,
+.tdocumento > tbody > tr > th,p
+.tdocumento > tfoot > tr > th,
+.tdocumento > thead > tr > td,
+.tdocumento > tbody > tr > td,
+.tdocumento > tfoot > tr > td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ebebeb;
+}
+.tdocumento > thead > tr > th .progress,
+.tdocumento > tbody > tr > th .progress,
+.tdocumento > tfoot > tr > th .progress,
+.tdocumento > thead > tr > td .progress,
+.tdocumento > tbody > tr > td .progress,
+.tdocumento > tfoot > tr > td .progress {
+    margin-bottom: 0;
+}
+.tdocumento > thead > tr > th .label,
+.tdocumento > tbody > tr > th .label,
+.tdocumento > tfoot > tr > th .label,
+.tdocumento > thead > tr > td .label,
+.tdocumento > tbody > tr > td .label,
+.tdocumento > tfoot > tr > td .label {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tdocumento > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ebebeb;
+}
+.tdocumento > caption + thead > tr:first-child > th,
+.tdocumento > colgroup + thead > tr:first-child > th,
+.tdocumento > thead:first-child > tr:first-child > th,
+.tdocumento > caption + thead > tr:first-child > td,
+.tdocumento > colgroup + thead > tr:first-child > td,
+.tdocumento > thead:first-child > tr:first-child > td {
+    border-top: 0;
+}
+.tdocumento > tbody + tbody {
+    border-top: 2px solid #ebebeb;
+}
+.tdocumento .tdocumento {
+    background-color: #ffffff;
+}
+.tdocumento-condensed > thead > tr > th,
+.tdocumento-condensed > tbody > tr > th,
+.tdocumento-condensed > tfoot > tr > th,
+.tdocumento-condensed > thead > tr > td,
+.tdocumento-condensed > tbody > tr > td,
+.tdocumento-condensed > tfoot > tr > td {
+    padding: 5px;
+}
+.tdocumento-bordered {
+    border: 1px solid #ebebeb;
+}
+.tdocumento-bordered > thead > tr > th,
+.tdocumento-bordered > tbody > tr > th,
+.tdocumento-bordered > tfoot > tr > th,
+.tdocumento-bordered > thead > tr > td,
+.tdocumento-bordered > tbody > tr > td,
+.tdocumento-bordered > tfoot > tr > td {
+    border: 1px solid #ebebeb;
+}
+.tdocumento-bordered > thead > tr > th,
+.tdocumento-bordered > thead > tr > td {
+    background-color: #f5f5f6;
+    border-bottom-width: 1px;
+    color: #a6a7aa;
+}
+.tdocumento-bordered > tfoot > tr > th,
+.tdocumento-bordered > tfoot > tr > td {
+    background-color: #f5f5f6;
+    border-top-width: 1px;
+    color: #a6a7aa;
+}
+.tdocumento-striped > tbody > tr:nth-child(odd) > td,
+.tdocumento-striped > tbody > tr:nth-child(odd) > th {
+    background-color: #f8f8f8;
+}
+.tdocumento-hover > tbody > tr:hover > td,
+.tdocumento-hover > tbody > tr:hover > th {
+    background-color: #f2f2f4;
+}
+table col[class*="col-"] {
+    float: none;
+    display: table-column;
+}
+table td[class*="col-"],
+table th[class*="col-"] {
+    float: none;
+    display: table-cell;
+}
+.tdocumento > thead > tr > td.active,
+.tdocumento > tbody > tr > td.active,
+.tdocumento > tfoot > tr > td.active,
+.tdocumento > thead > tr > th.active,
+.tdocumento > tbody > tr > th.active,
+.tdocumento > tfoot > tr > th.active,
+.tdocumento > thead > tr.active > td,
+.tdocumento > tbody > tr.active > td,
+.tdocumento > tfoot > tr.active > td,
+.tdocumento > thead > tr.active > th,
+.tdocumento > tbody > tr.active > th,
+.tdocumento > tfoot > tr.active > th {
+    background-color: #f2f2f4;
+}
+.tdocumento > thead > tr > td.active,
+.tdocumento > tbody > tr > td.active,
+.tdocumento > tfoot > tr > td.active,
+.tdocumento > thead > tr > th.active,
+.tdocumento > tbody > tr > th.active,
+.tdocumento > tfoot > tr > th.active,
+.tdocumento > thead > tr.active > td,
+.tdocumento > tbody > tr.active > td,
+.tdocumento > tfoot > tr.active > td,
+.tdocumento > thead > tr.active > th,
+.tdocumento > tbody > tr.active > th,
+.tdocumento > tfoot > tr.active > th {
+    background-color: #f2f2f4;
+}
+.tdocumento-hover > tbody > tr > td.active:hover,
+.tdocumento-hover > tbody > tr > th.active:hover,
+.tdocumento-hover > tbody > tr.active:hover > td,
+.tdocumento-hover > tbody > tr.active:hover > th {
+    background-color: #e5e5e8;
+}
+.tdocumento > thead > tr > td.success,
+.tdocumento > tbody > tr > td.success,
+.tdocumento > tfoot > tr > td.success,
+.tdocumento > thead > tr > th.success,
+.tdocumento > tbody > tr > th.success,
+.tdocumento > tfoot > tr > th.success,
+.tdocumento > thead > tr.success > td,
+.tdocumento > tbody > tr.success > td,
+.tdocumento > tfoot > tr.success > td,
+.tdocumento > thead > tr.success > th,
+.tdocumento > tbody > tr.success > th,
+.tdocumento > tfoot > tr.success > th {
+    background-color: #bdedbc;
+}
+.tdocumento-hover > tbody > tr > td.success:hover,
+.tdocumento-hover > tbody > tr > th.success:hover,
+.tdocumento-hover > tbody > tr.success:hover > td,
+.tdocumento-hover > tbody > tr.success:hover > th {
+    background-color: #a9e8a8;
+}
+.tdocumento > thead > tr > td.info,
+.tdocumento > tbody > tr > td.info,
+.tdocumento > tfoot > tr > td.info,
+.tdocumento > thead > tr > th.info,
+.tdocumento > tbody > tr > th.info,
+.tdocumento > tfoot > tr > th.info,
+.tdocumento > thead > tr.info > td,
+.tdocumento > tbody > tr.info > td,
+.tdocumento > tfoot > tr.info > td,
+.tdocumento > thead > tr.info > th,
+.tdocumento > tbody > tr.info > th,
+.tdocumento > tfoot > tr.info > th {
+    background-color: #c5e8f7;
+}
+.tdocumento-hover > tbody > tr > td.info:hover,
+.tdocumento-hover > tbody > tr > th.info:hover,
+.tdocumento-hover > tbody > tr.info:hover > td,
+.tdocumento-hover > tbody > tr.info:hover > th {
+    background-color: #afdff4;
+}
+.tdocumento > thead > tr > td.warning,
+.tdocumento > tbody > tr > td.warning,
+.tdocumento > tfoot > tr > td.warning,
+.tdocumento > thead > tr > th.warning,
+.tdocumento > tbody > tr > th.warning,
+.tdocumento > tfoot > tr > th.warning,
+.tdocumento > thead > tr.warning > td,
+.tdocumento > tbody > tr.warning > td,
+.tdocumento > tfoot > tr.warning > td,
+.tdocumento > thead > tr.warning > th,
+.tdocumento > tbody > tr.warning > th,
+.tdocumento > tfoot > tr.warning > th {
+    background-color: #ffefa4;
+}
+.tdocumento-hover > tbody > tr > td.warning:hover,
+.tdocumento-hover > tbody > tr > th.warning:hover,
+.tdocumento-hover > tbody > tr.warning:hover > td,
+.tdocumento-hover > tbody > tr.warning:hover > th {
+    background-color: #ffeb8a;
+}
+.tdocumento > thead > tr > td.danger,
+.tdocumento > tbody > tr > td.danger,
+.tdocumento > tfoot > tr > td.danger,
+.tdocumento > thead > tr > th.danger,
+.tdocumento > tbody > tr > th.danger,
+.tdocumento > tfoot > tr > th.danger,
+.tdocumento > thead > tr.danger > td,
+.tdocumento > tbody > tr.danger > td,
+.tdocumento > tfoot > tr.danger > td,
+.tdocumento > thead > tr.danger > th,
+.tdocumento > tbody > tr.danger > th,
+.tdocumento > tfoot > tr.danger > th {
+    background-color: #ffc9c9;
+}
+.tdocumento-hover > tbody > tr > td.danger:hover,
+.tdocumento-hover > tbody > tr > th.danger:hover,
+.tdocumento-hover > tbody > tr.danger:hover > td,
+.tdocumento-hover > tbody > tr.danger:hover > th {
+    background-color: #ffafaf;
+}
+@media (max-width: 767px) {
+    .tdocumento-responsive {
+        width: 100%;
+        margin-bottom: 12.75px;
+        overflow-y: hidden;
+        overflow-x: scroll;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #ebebeb;
+        -webkit-overflow-scrolling: touch;
+    }
+    .tdocumento-responsive > .tdocumento {
+        margin-bottom: 0;
+    }
+    .tdocumento-responsive > .tdocumento > thead > tr > th,
+    .tdocumento-responsive > .tdocumento > tbody > tr > th,
+    .tdocumento-responsive > .tdocumento > tfoot > tr > th,
+    .tdocumento-responsive > .tdocumento > thead > tr > td,
+    .tdocumento-responsive > .tdocumento > tbody > tr > td,
+    .tdocumento-responsive > .tdocumento > tfoot > tr > td {
+        white-space: nowrap;
+    }
+    .tdocumento-responsive > .tdocumento-bordered {
+        border: 0;
+    }
+    .tdocumento-responsive > .tdocumento-bordered > thead > tr > th:first-child,
+    .tdocumento-responsive > .tdocumento-bordered > tbody > tr > th:first-child,
+    .tdocumento-responsive > .tdocumento-bordered > tfoot > tr > th:first-child,
+    .tdocumento-responsive > .tdocumento-bordered > thead > tr > td:first-child,
+    .tdocumento-responsive > .tdocumento-bordered > tbody > tr > td:first-child,
+    .tdocumento-responsive > .tdocumento-bordered > tfoot > tr > td:first-child {
+        border-left: 0;
+    }
+    .tdocumento-responsive > .tdocumento-bordered > thead > tr > th:last-child,
+    .tdocumento-responsive > .tdocumento-bordered > tbody > tr > th:last-child,
+    .tdocumento-responsive > .tdocumento-bordered > tfoot > tr > th:last-child,
+    .tdocumento-responsive > .tdocumento-bordered > thead > tr > td:last-child,
+    .tdocumento-responsive > .tdocumento-bordered > tbody > tr > td:last-child,
+    .tdocumento-responsive > .tdocumento-bordered > tfoot > tr > td:last-child {
+        border-right: 0;
+    }
+    .tdocumento-responsive > .tdocumento-bordered > tbody > tr:last-child > th,
+    .tdocumento-responsive > .tdocumento-bordered > tfoot > tr:last-child > th,
+    .tdocumento-responsive > .tdocumento-bordered > tbody > tr:last-child > td,
+    .tdocumento-responsive > .tdocumento-bordered > tfoot > tr:last-child > td {
+        border-bottom: 0;
+    }
+}
+table > tbody > tr.highlight > td,
+table > tbody > tr.highlight > th {
+    background-color: #f1f2f4 !important;
+    color: #303641;
+}
+.tdocumento > thead > tr > .middle-align,
+.tdocumento > tbody > tr > .middle-align,
+.tdocumento > tfoot > tr > .middle-align {
+    vertical-align: middle;
+}
+
+tr.header-finiquitos
+{
+    cursor:pointer;
+}
+
+/*Login*/
+#login_c{margin-bottom: -20px;padding:40px;}
+/*Solicitudes auditoria*/
+.fa-plus{font-size: 12px;color: white}
+.fa-minus{font-size: 12px;color: white}
+.mas{display: inline-block; margin-bottom: 5px; margin-left: 5px;}
+.menos{display: inline-block; margin-bottom: 0px; margin-left: 5px;}
+/*Edicion solicitud auditoría*/
+.emas{display: inline-block; margin-bottom: 5px; margin-left: 5px;}
+.emenos{display: inline-block; margin-bottom: 5px; margin-left: 5px;}
+.borrar{display: inline-block; margin-bottom: 5px; margin-left: 5px;}
+.fa-time{font-size: 12px;color: white}
+.visible{display: inline-block;}
+
+/*LCredencializacion*/
+.listadocredenciales{max-width: 1000px;}
+.fa-exchange:hover{cursor: pointer;}
+
+.required-field-block {
+    position: relative;
+}
+
+.required-field-block .required-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin: -0.25em 0.25em 0em;
+    background-color: #E8E8E8;
+    border-color: #E8E8E8;
+    padding: 0.5em 0.8em;
+    color: rgba(0, 0, 0, 0.65);
+    text-transform: uppercase;
+    font-weight: normal;
+    border-radius: 0.325em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: background 0.1s linear;
+    -moz-transition: background 0.1s linear;
+    transition: background 0.1s linear;
+    font-size: 75%;
+}
+
+.required-field-block .required-icon {
+    background-color: transparent;
+    position: absolute;
+    top: -0.1em;
+    right: -0.3em;
+    z-index: 10;
+    margin: 0em;
+    width: 30px;
+    height: 15px;
+    padding: 0em;
+    text-align: center;
+    -webkit-transition: color 0.2s ease;
+    -moz-transition: color 0.2s ease;
+    transition: color 0.2s ease;
+}
+
+.required-field-block .required-icon:after {
+    position: absolute;
+    content: "";
+    right: 1px;
+    top: 1px;
+    z-index: -1;
+    width: 0em;
+    height: 0em;
+    border-top: 0em solid transparent;
+
+    border-left: 0em solid transparent;
+    border-right-color: inherit;
+    -webkit-transition: border-color 0.2s ease;
+    -moz-transition: border-color 0.2s ease;
+    transition: border-color 0.2s ease;
+}
+
+.required-field-block .required-icon .text {
+  color: #B80000;
+  font-size: 22px;
+  margin: -3px 0 0 12px;
+}
