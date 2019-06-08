@@ -1,0 +1,8 @@
+/nbproject/private/
+=======
+# Created by .ignore support plugin (hsz.mobi)
+vendor
+temporal
+app/config/production
+app/config/qa
+app/config/testing
