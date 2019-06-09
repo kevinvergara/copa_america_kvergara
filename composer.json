@@ -5,10 +5,7 @@
   "license": "MIT",
   "require": {
     "laravel/framework": "4.2.*",
-    "phpoffice/phpexcel": "1.8.0",
-    "maatwebsite/excel": "~1.3.0",
     "indatus/dispatcher": "1.4.*@dev",
-    "yajra/laravel-datatables-oracle": "*",
     "way/generators": "~2.0",
     "noiselabs/nusoap-bundle": "^0.2.1"
   },
@@ -21,7 +18,6 @@
       "app/database/seeds",
       "app/tests/TestCase.php",
       "app/queueclasses",
-      "app/libraries/tcpdf",
       "app/helpers/",
       "app/helpers/selectcombo/selectadd.php"
     ],

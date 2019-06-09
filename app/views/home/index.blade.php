@@ -165,14 +165,14 @@ img#tercero:hover {
                 <p><strong>**</strong>El o los ganadores se ver&aacute;n al finalizar el campeonato, sumando todo el puntaje acumulado.</p>
                 <h2>3.&nbsp;&nbsp; Apuesta Opcional Podio.</h2>
                 <ol style="list-style-type: lower-alpha;">
-                <li>Antes del inicio del campeonato se podr&aacute; apostar por el resultado de los 3 primeros lugares, ganador y perdedor de la final, ganador del partido entre los perdedores de la semifinal, mejor jugador del campeonato, maximo goleador del campeonato, mejor arquero del campeonato. Por cada acierto se aplicar&aacute; un porcentaje adicional al puntaje total obtenido al finalizar el campeonato.
+                <li>Antes del inicio del campeonato se podr&aacute; apostar por el resultado de los 3 primeros lugares, ganador y perdedor de la final, ganador del partido entre los perdedores de la semifinal, mejor jugador del campeonato, maximo goleador del campeonato, mejor arquero del campeonato. Por cada acierto se sumara una cifra al multiplicador final del puntaje.
                 <ol style="list-style-type: lower-roman;">
-                <li>1 acierto, 1,1% extra en el puntaje total.</li>
-                <li>2 aciertos, 1,2% extra en el puntaje total.</li>
-                <li>3 aciertos, 1,3% extra en el puntaje total.</li>
-                <li>4 acierto, 1,4% extra en el puntaje total.</li>
-                <li>5 aciertos, 1,5% extra en el puntaje total.</li>
-                <li>6 aciertos, 1,6% extra en el puntaje total.</li>
+                <li>1 acierto, 1,1 multiplica el puntaje final.</li>
+                <li>2 aciertos, 1,2 multiplica el puntaje final.</li>
+                <li>3 aciertos, 1,3 multiplica el puntaje final.</li>
+                <li>4 acierto, 1,4 multiplica el puntaje final.</li>
+                <li>5 aciertos, 1,5 multiplica el puntaje final.</li>
+                <li>6 aciertos, 1,6 multiplica el puntaje final.</li>
                 </ol>
                 </li>
                 </ol>
@@ -261,11 +261,11 @@ img#tercero:hover {
           <h4>Antes de participar favor lea las bases del concurso. BUENA SUERTE!</h4>
           <a href="#" class="btn btn-lg btn-success" onclick="$('html, body').animate({ scrollTop: 0 }, 'slow'); $('#myModal').show();">VER BASES</a>
       </div>
-      <div class="col-sm-6 alert alert-success">
+      <!--<div class="col-sm-6 alert alert-success">
           <h3>Premios</h3>
           <h4>Listado de premios según las posiciones. BUENA SUERTE!</h4>
           <a href="#" class="btn btn-lg btn-success" onclick="$('html, body').animate({ scrollTop: 0 }, 'slow'); $('#moda_premios').show();">VER PREMIOS</a>
-      </div>
+      </div>-->
     </div>
     @if(isset($primero["usuario"]->usuario_nombre))
     <div class="row">
