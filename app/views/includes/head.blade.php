@@ -3,7 +3,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SISTEMA MUNDIALERO</title>
+    <title>SISTEMA COPA AMÉRICA</title>
 
     <link href="{{asset('js/jquery-ui/css/no-theme/jquery-ui-1.10.4.min.css')}}" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('js/daterangepicker/daterangepicker-bs3.css')}}">
