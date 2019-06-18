@@ -4,10 +4,10 @@ class Partido extends \Eloquent {
 
 	protected $table='partidos';
 	// Add your validation rules here
-	/*public static $rules = [
+	public static $rules = [
 		'res_local' => 'required',
 		'res_visita' => 'required'
-	];*/
+	];
 
 	public $timestamps = true;
 
